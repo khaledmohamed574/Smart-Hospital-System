@@ -1,0 +1,36 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "khaled mohamed",
+      "contact": "01012821506",
+      "specialization": "pharmcy"
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "name": "mohamed",
+      "contact": "01032235072",
+      "medicalHistory": [],
+      "prescriptions": []
+    }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "name": "salma",
+      "contact": "01033256985",
+      "position": "nurse"
+    }
+  ],
+  "appointments": [
+    {
+      "doctor_id": 1,
+      "patient_id": 1,
+      "date": "2/8/2026",
+      "time": "5",
+      "status": "Scheduled"
+    }
+  ]
+}
